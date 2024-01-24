@@ -9,7 +9,7 @@
     The paper aimed to determine the causes for the decline of the real economy despite a rapidly rising stock market due to oversupply created by COVID-19 stimulus.
 
 3. Process of Analysis
-   * Analysis Tools
+   * Analysis Tools \\
      R (libraries such as vars)
    * Data
      - variables representing investment demand
