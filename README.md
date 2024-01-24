@@ -3,7 +3,7 @@
 * For two semesters, I wroted two papers related to macroeconomics as the only statistician on two teams
 
 ### 1. Project Introduction
- One of the two papers, "An Analysis of the Correlation between CD Interest Rates and Macroeconomic Variables: Using the VAR Model" started with a team paper and became our society's representative paper to be presented at the Korea-Japan University Association Seminar. 
+ One of the two papers, "An Analysis of the Correlation Between the CD Interest Rates and Macroeconomic Variables: Using the VAR Model" started with a team paper and became our society's representative paper to be presented at the Korea-Japan University Association Seminar. 
    
 ### 2. Purpose of Analysis
  The paper aimed to determine the causes for the decline of the real economy despite a rapidly rising stock market due to oversupply created by COVID-19 stimulus.
