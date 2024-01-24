@@ -1,6 +1,6 @@
 # SEED (03.2020 ~ 02.2022)
 * Society of Economics and Statistics at Ewha Womans University in South Korea
-* For two semesters, I wroted two papers related to macroeconomics as the only statistician on two teams.
+* For two semesters, I wroted two papers related to macroeconomics as the only statistician on two teams
 
 ### 1. Project Introduction
  One of the two papers, "An Analysis of the Correlation between CD Interest Rates and Macroeconomic Variables: Using the VAR Model" started with a team paper and became our society's representative paper to be presented at the Korea-Japan University Association Seminar. 
